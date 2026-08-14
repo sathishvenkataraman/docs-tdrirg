@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-c65ryc.privatetalks.online/sitemap.xml
